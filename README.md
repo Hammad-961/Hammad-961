@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hammad 👋</h1>
 
-<!--
-**Hammad-961/Hammad-961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Programmer;Learning%2C+Building+%26+Exploring+Technology" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">💻 About Me</h2>
+
+- 👋 Hi, I'm Hammad.
+- 💡 I'm a Passionate Programmer.
+- 🌱 Currently learning C++.
+- 🚀 Learning, Building & Exploring Technology.
+- 🎯 Always curious to learn something new.
+
+<h2 align="center">⚡ My Interests</h2>
+
+<p align="center">
+  💻 Programming | 🤖 AI | 🌐 Technology
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for Visiting My Profile ✨</h3>
