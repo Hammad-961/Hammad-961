@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=200&section=header&text=HAMMAD UMAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=200&section=header&text=HAMMAD&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hammad Umar+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Programmer;Learning%2C+Building+%26+Exploring+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hammad+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Programmer;Learning%2C+Building+%26+Exploring+Technology" />
 
 </div>
 
