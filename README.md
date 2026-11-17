@@ -8,12 +8,6 @@
 
 <h2 align="center">💻 About Me</h2>
 
-- 👋 Hi, I'm Hammad.
-- 💡 I'm a Passionate Programmer.
-- 🌱 Currently learning C++.
-- 🚀 Learning, Building & Exploring Technology.
-- 🎯 Always curious to learn something new.
-
 <h2 align="center">⚡ My Interests</h2>
 
 <p align="center">
